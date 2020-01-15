@@ -6,6 +6,7 @@ os:
 language: node_js
 
 node_js:
+  - '13'
   - '10'
   - '8'
 
